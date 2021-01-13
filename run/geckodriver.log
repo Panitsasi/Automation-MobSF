@@ -1,0 +1,736 @@
+1604073622402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu6Wj27"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604073625847	Marionette	INFO	Listening on port 39999
+1604073625961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604074196842	Marionette	INFO	Stopped listening on port 39999
+1604076624619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebTe1m7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604076629347	Marionette	INFO	Listening on port 34453
+1604076629486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604076787636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile12HSGk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604076790220	Marionette	INFO	Listening on port 33125
+1604076790282	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604076899966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKcK1mL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604076902455	Marionette	INFO	Listening on port 40109
+1604076902525	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604077008420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb32Tk0"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604077011013	Marionette	INFO	Listening on port 41007
+1604077011061	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604078656935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenmN9no"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604078659394	Marionette	INFO	Listening on port 42707
+1604078659457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1604079137312	Marionette	INFO	Stopped listening on port 42707
+1604079722270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1aeoCu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604079724618	Marionette	INFO	Listening on port 43893
+1604079724693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604145557178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAUPMM7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604145590657	Marionette	INFO	Listening on port 43847
+1604145590929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604145800142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR32LZg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604145803911	Marionette	INFO	Listening on port 45079
+1604145804001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604151511130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileprsXk4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604151513878	Marionette	INFO	Listening on port 44853
+1604151513989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 90: TypeError: c is undefined
+1604151997671	Marionette	INFO	Stopped listening on port 44853
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604221162713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMW4o7O"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604221166740	Marionette	INFO	Listening on port 36273
+1604221166908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1604221646082	Marionette	INFO	Stopped listening on port 36273
+1604226242889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiaxWOJ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604226246621	Marionette	INFO	Listening on port 46561
+1604226246789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1604226725401	Marionette	INFO	Stopped listening on port 46561
+1604228494914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile621WUf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604228497442	Marionette	INFO	Listening on port 35595
+1604228497566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1604228975028	Marionette	INFO	Stopped listening on port 35595
+1604246515652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLixyMK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604246518923	Marionette	INFO	Listening on port 33907
+1604246519015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1604246997387	Marionette	INFO	Stopped listening on port 33907
+1604300553695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXFA19B"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604300557401	Marionette	INFO	Listening on port 44623
+1604300557456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1604301034966	Marionette	INFO	Stopped listening on port 44623
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604304003752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUEQMKS"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604304007449	Marionette	INFO	Listening on port 35613
+1604304007495	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604304146098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN34zl3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604304149767	Marionette	INFO	Listening on port 45901
+1604304149821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604304219291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile37TDLr"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604304221618	Marionette	INFO	Listening on port 34919
+1604304221739	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604304323737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0mD44X"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604304326155	Marionette	INFO	Listening on port 43897
+1604304326259	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604304394762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileen4U6C"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604304397244	Marionette	INFO	Listening on port 35087
+1604304397295	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604304744963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Tz75f"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604304747618	Marionette	INFO	Listening on port 46031
+1604304747717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1604305224528	Marionette	INFO	Stopped listening on port 46031
+1604306141583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMIOQh"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604306144051	Marionette	INFO	Listening on port 34561
+1604306144111	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604320964680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilent6ip4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604320999905	Marionette	INFO	Listening on port 37887
+1604321000091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604321203183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKlJs34"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604321206712	Marionette	INFO	Listening on port 36061
+1604321206809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604321394290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSAIWoK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604321397762	Marionette	INFO	Listening on port 43905
+1604321397835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604321585229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8fuUM5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604321588772	Marionette	INFO	Listening on port 41483
+1604321588855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604321776431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexVRtaQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604321781033	Marionette	INFO	Listening on port 33971
+1604321781059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604321972542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepXQ9np"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604321975977	Marionette	INFO	Listening on port 43287
+1604321976097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604322171743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJUh5s5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604322175726	Marionette	INFO	Listening on port 33929
+1604322175768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604322369941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley9lZN6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604322373664	Marionette	INFO	Listening on port 39943
+1604322373765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604322565370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMQa1lZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604322568826	Marionette	INFO	Listening on port 36551
+1604322568918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604322763381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7xSwRK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604322766860	Marionette	INFO	Listening on port 42889
+1604322766923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604322954929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile69anT7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604322958420	Marionette	INFO	Listening on port 43619
+1604322958474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604324209880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileernLrk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604324212519	Marionette	INFO	Listening on port 43703
+1604324212602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1604324690516	Marionette	INFO	Stopped listening on port 43703
+1604326732437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejm4DBV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604326734903	Marionette	INFO	Listening on port 42311
+1604326734984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1604327211716	Marionette	INFO	Stopped listening on port 42311
+1604329188325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5DX0hi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604329190868	Marionette	INFO	Listening on port 42377
+1604329190945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1604329674224	Marionette	INFO	Stopped listening on port 42377
+1604400957175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL15WvZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604400960374	Marionette	INFO	Listening on port 43379
+1604400960455	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604401188430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile006Eft"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604401190974	Marionette	INFO	Listening on port 34979
+1604401191053	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604401643104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4dni7E"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604401645637	Marionette	INFO	Listening on port 34293
+1604401645731	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604409363882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuTZ8qT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604409399696	Marionette	INFO	Listening on port 37519
+1604409399851	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605017805744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFFSvgK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605017809126	Marionette	INFO	Listening on port 46419
+1605017809216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1605018294907	Marionette	INFO	Stopped listening on port 46419
+1605695276024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4rBOKE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605695279541	Marionette	INFO	Listening on port 39955
+1605695279618	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605703722040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLxHzji"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605703724668	Marionette	INFO	Listening on port 38461
+1605703724760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 90: TypeError: c is undefined
+1605704213285	Marionette	INFO	Stopped listening on port 38461
+1605714811342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDtNRIk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605714814721	Marionette	INFO	Listening on port 42681
+1605714814834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1605715293879	Marionette	INFO	Stopped listening on port 42681
+1606037032841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZaLu46"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606037036613	Marionette	INFO	Listening on port 33129
+1606037036778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1606037514866	Marionette	INFO	Stopped listening on port 33129
+1606039434284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler6iJ7T"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606039436943	Marionette	INFO	Listening on port 34995
+1606039437015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1606039916139	Marionette	INFO	Stopped listening on port 34995
+1606041820516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexFRoGG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606041823161	Marionette	INFO	Listening on port 40463
+1606041823241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1606042302653	Marionette	INFO	Stopped listening on port 40463
+1606062409002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUThaMY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606062413612	Marionette	INFO	Listening on port 33655
+1606062413716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1606062900892	Marionette	INFO	Stopped listening on port 33655
+1606069214335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXfq10W"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606069218754	Marionette	INFO	Listening on port 39847
+1606069218925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 90: TypeError: c is undefined
+1606069710606	Marionette	INFO	Stopped listening on port 39847
+1606471230931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexpiqJK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606471234256	Marionette	INFO	Listening on port 33849
+1606471234465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1606471713521	Marionette	INFO	Stopped listening on port 33849
+1606471790146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZG5yvW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606471792712	Marionette	INFO	Listening on port 40905
+1606471792772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606473609997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4mJvrs"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606473612466	Marionette	INFO	Listening on port 43699
+1606473612519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1606474091369	Marionette	INFO	Stopped listening on port 43699
+1606475546549	Marionette	INFO	Stopped listening on port 40905
+1606489887176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2IJmaZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606489892019	Marionette	INFO	Listening on port 45375
+1606489892185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1606490372222	Marionette	INFO	Stopped listening on port 45375
+1609080716587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2LiiS3"
+*** You are running in headless mode.
+
+(firefox:8899): GLib-GObject-WARNING **: 16:51:58.264: invalid (NULL) pointer instance
+
+(firefox:8899): GLib-GObject-CRITICAL **: 16:51:58.264: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:8973): GLib-GObject-WARNING **: 16:51:59.005: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:8973): GLib-GObject-CRITICAL **: 16:51:59.005: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:9001): GLib-GObject-WARNING **: 16:51:59.103: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:9001): GLib-GObject-CRITICAL **: 16:51:59.103: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:9068): GLib-GObject-WARNING **: 16:52:01.509: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:9068): GLib-GObject-CRITICAL **: 16:52:01.509: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609080721539	Marionette	INFO	Listening on port 33591
+1609080721844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1609081198919	Marionette	INFO	Stopped listening on port 33591
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610268734119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFnxhD9"
+*** You are running in headless mode.
+
+(firefox:29979): GLib-GObject-WARNING **: 10:52:15.354: invalid (NULL) pointer instance
+
+(firefox:29979): GLib-GObject-CRITICAL **: 10:52:15.354: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:30034): GLib-GObject-WARNING **: 10:52:15.688: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:30034): GLib-GObject-CRITICAL **: 10:52:15.688: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:30054): GLib-GObject-WARNING **: 10:52:15.757: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:30054): GLib-GObject-CRITICAL **: 10:52:15.757: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:30125): GLib-GObject-WARNING **: 10:52:17.625: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:30125): GLib-GObject-CRITICAL **: 10:52:17.625: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610268737683	Marionette	INFO	Listening on port 45891
+1610268737800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1610269214100	Marionette	INFO	Stopped listening on port 45891
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610270811440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletB38WH"
+*** You are running in headless mode.
+
+(firefox:33359): GLib-GObject-WARNING **: 11:26:52.777: invalid (NULL) pointer instance
+
+(firefox:33359): GLib-GObject-CRITICAL **: 11:26:52.777: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:33412): GLib-GObject-WARNING **: 11:26:53.067: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:33412): GLib-GObject-CRITICAL **: 11:26:53.067: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:33431): GLib-GObject-WARNING **: 11:26:53.135: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:33431): GLib-GObject-CRITICAL **: 11:26:53.135: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:33501): GLib-GObject-WARNING **: 11:26:55.072: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:33499): GLib-GObject-WARNING **: 11:26:55.072: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:33501): GLib-GObject-CRITICAL **: 11:26:55.072: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:33499): GLib-GObject-CRITICAL **: 11:26:55.072: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610270815181	Marionette	INFO	Listening on port 38417
+1610270815296	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1610271293224	Marionette	INFO	Stopped listening on port 38417
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610276904454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqIJUz1"
+*** You are running in headless mode.
+
+(firefox:39127): GLib-GObject-WARNING **: 13:08:25.705: invalid (NULL) pointer instance
+
+(firefox:39127): GLib-GObject-CRITICAL **: 13:08:25.705: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:39179): GLib-GObject-WARNING **: 13:08:25.956: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:39179): GLib-GObject-CRITICAL **: 13:08:25.956: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:39215): GLib-GObject-WARNING **: 13:08:26.043: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:39215): GLib-GObject-CRITICAL **: 13:08:26.043: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:39284): GLib-GObject-WARNING **: 13:08:28.040: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:39284): GLib-GObject-CRITICAL **: 13:08:28.040: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:39286): GLib-GObject-WARNING **: 13:08:28.044: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:39286): GLib-GObject-CRITICAL **: 13:08:28.044: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610276908061	Marionette	INFO	Listening on port 37803
+1610276908078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1610277389965	Marionette	INFO	Stopped listening on port 37803
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610277802817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Uk7Ux"
+*** You are running in headless mode.
+
+(firefox:41425): GLib-GObject-WARNING **: 13:23:24.184: invalid (NULL) pointer instance
+
+(firefox:41425): GLib-GObject-CRITICAL **: 13:23:24.184: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:41492): GLib-GObject-WARNING **: 13:23:24.519: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:41492): GLib-GObject-CRITICAL **: 13:23:24.519: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:41511): GLib-GObject-WARNING **: 13:23:24.589: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:41511): GLib-GObject-CRITICAL **: 13:23:24.589: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:41583): GLib-GObject-WARNING **: 13:23:26.692: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:41583): GLib-GObject-CRITICAL **: 13:23:26.692: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610277806733	Marionette	INFO	Listening on port 36593
+1610277806862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/adminlte/plugins/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1610278293338	Marionette	INFO	Stopped listening on port 36593
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610286740316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGQHxwI"
+*** You are running in headless mode.
+
+(firefox:6150): GLib-GObject-WARNING **: 15:52:22.098: invalid (NULL) pointer instance
+
+(firefox:6150): GLib-GObject-CRITICAL **: 15:52:22.098: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6280): GLib-GObject-WARNING **: 15:52:22.972: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6280): GLib-GObject-CRITICAL **: 15:52:22.972: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6305): GLib-GObject-WARNING **: 15:52:23.091: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6305): GLib-GObject-CRITICAL **: 15:52:23.091: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6368): GLib-GObject-WARNING **: 15:52:25.177: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6368): GLib-GObject-CRITICAL **: 15:52:25.177: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6370): GLib-GObject-WARNING **: 15:52:25.177: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6370): GLib-GObject-CRITICAL **: 15:52:25.177: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610286745190	Marionette	INFO	Listening on port 40847
+1610286745304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610286974849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqxtrVW"
+*** You are running in headless mode.
+
+(firefox:7029): GLib-GObject-WARNING **: 15:56:16.210: invalid (NULL) pointer instance
+
+(firefox:7029): GLib-GObject-CRITICAL **: 15:56:16.210: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7119): GLib-GObject-WARNING **: 15:56:16.540: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7119): GLib-GObject-CRITICAL **: 15:56:16.540: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7138): GLib-GObject-WARNING **: 15:56:16.614: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7138): GLib-GObject-CRITICAL **: 15:56:16.614: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7211): GLib-GObject-WARNING **: 15:56:18.697: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7211): GLib-GObject-CRITICAL **: 15:56:18.697: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7213): GLib-GObject-WARNING **: 15:56:18.699: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7213): GLib-GObject-CRITICAL **: 15:56:18.699: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610286978750	Marionette	INFO	Listening on port 34787
+1610286978798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610288113011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuR0UpZ"
+*** You are running in headless mode.
+
+(firefox:1201): GLib-GObject-WARNING **: 16:15:30.555: invalid (NULL) pointer instance
+
+(firefox:1201): GLib-GObject-CRITICAL **: 16:15:30.555: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1643): GLib-GObject-WARNING **: 16:15:35.088: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1643): GLib-GObject-CRITICAL **: 16:15:35.088: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1780): GLib-GObject-WARNING **: 16:15:35.922: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1780): GLib-GObject-CRITICAL **: 16:15:35.922: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2088): GLib-GObject-WARNING **: 16:15:41.749: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2088): GLib-GObject-CRITICAL **: 16:15:41.749: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2091): GLib-GObject-WARNING **: 16:15:41.777: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2091): GLib-GObject-CRITICAL **: 16:15:41.777: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610288146174	Marionette	INFO	Listening on port 35945
+1610288146656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610288391904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePiauS3"
+*** You are running in headless mode.
+
+(firefox:1225): GLib-GObject-WARNING **: 16:20:09.734: invalid (NULL) pointer instance
+
+(firefox:1225): GLib-GObject-CRITICAL **: 16:20:09.734: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1631): GLib-GObject-WARNING **: 16:20:14.747: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1631): GLib-GObject-CRITICAL **: 16:20:14.747: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1701): GLib-GObject-WARNING **: 16:20:15.539: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1701): GLib-GObject-CRITICAL **: 16:20:15.539: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2015): GLib-GObject-WARNING **: 16:20:23.147: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2015): GLib-GObject-CRITICAL **: 16:20:23.147: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610288430091	Marionette	INFO	Listening on port 40643
+1610288430342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610288685232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQqzBwr"
+*** You are running in headless mode.
+
+(firefox:5024): GLib-GObject-WARNING **: 16:24:48.701: invalid (NULL) pointer instance
+
+(firefox:5024): GLib-GObject-CRITICAL **: 16:24:48.701: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5102): GLib-GObject-WARNING **: 16:24:49.035: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5102): GLib-GObject-CRITICAL **: 16:24:49.035: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5123): GLib-GObject-WARNING **: 16:24:49.116: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5123): GLib-GObject-CRITICAL **: 16:24:49.116: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610288691909	Marionette	INFO	Listening on port 39739
+
+(/usr/lib/firefox/firefox:5196): GLib-GObject-WARNING **: 16:24:51.910: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5196): GLib-GObject-CRITICAL **: 16:24:51.910: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610288691960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610288900932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKo0VYA"
+*** You are running in headless mode.
+
+(firefox:5523): GLib-GObject-WARNING **: 16:28:23.307: invalid (NULL) pointer instance
+
+(firefox:5523): GLib-GObject-CRITICAL **: 16:28:23.307: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5605): GLib-GObject-WARNING **: 16:28:23.609: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5605): GLib-GObject-CRITICAL **: 16:28:23.609: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5624): GLib-GObject-WARNING **: 16:28:23.678: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5624): GLib-GObject-CRITICAL **: 16:28:23.678: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:5695): GLib-GObject-WARNING **: 16:28:25.752: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5695): GLib-GObject-CRITICAL **: 16:28:25.752: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5697): GLib-GObject-WARNING **: 16:28:25.753: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5697): GLib-GObject-CRITICAL **: 16:28:25.753: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610288905805	Marionette	INFO	Listening on port 40859
+1610288905890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610289103885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKCBDX0"
+*** You are running in headless mode.
+
+(firefox:6002): GLib-GObject-WARNING **: 16:31:46.317: invalid (NULL) pointer instance
+
+(firefox:6002): GLib-GObject-CRITICAL **: 16:31:46.317: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6095): GLib-GObject-WARNING **: 16:31:46.657: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6095): GLib-GObject-CRITICAL **: 16:31:46.657: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6114): GLib-GObject-WARNING **: 16:31:46.726: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6114): GLib-GObject-CRITICAL **: 16:31:46.726: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6182): GLib-GObject-WARNING **: 16:31:48.891: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6182): GLib-GObject-CRITICAL **: 16:31:48.892: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610289109011	Marionette	INFO	Listening on port 45863
+1610289109136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610289309566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekurvI2"
+*** You are running in headless mode.
+
+(firefox:6494): GLib-GObject-WARNING **: 16:35:12.087: invalid (NULL) pointer instance
+
+(firefox:6494): GLib-GObject-CRITICAL **: 16:35:12.087: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6578): GLib-GObject-WARNING **: 16:35:12.407: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6578): GLib-GObject-CRITICAL **: 16:35:12.407: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6597): GLib-GObject-WARNING **: 16:35:12.492: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6597): GLib-GObject-CRITICAL **: 16:35:12.492: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6667): GLib-GObject-WARNING **: 16:35:15.073: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6667): GLib-GObject-CRITICAL **: 16:35:15.074: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6669): GLib-GObject-WARNING **: 16:35:15.076: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6669): GLib-GObject-CRITICAL **: 16:35:15.076: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610289315088	Marionette	INFO	Listening on port 34319
+1610289315199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610289523339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletvxupq"
+*** You are running in headless mode.
+
+(firefox:7028): GLib-GObject-WARNING **: 16:38:45.645: invalid (NULL) pointer instance
+
+(firefox:7028): GLib-GObject-CRITICAL **: 16:38:45.645: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7132): GLib-GObject-WARNING **: 16:38:45.981: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7132): GLib-GObject-CRITICAL **: 16:38:45.981: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7152): GLib-GObject-WARNING **: 16:38:46.050: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7152): GLib-GObject-CRITICAL **: 16:38:46.051: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7219): GLib-GObject-WARNING **: 16:38:48.152: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7219): GLib-GObject-CRITICAL **: 16:38:48.152: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7221): GLib-GObject-WARNING **: 16:38:48.154: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7221): GLib-GObject-CRITICAL **: 16:38:48.154: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610289528182	Marionette	INFO	Listening on port 39381
+1610289528295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610289605836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehvGHEK"
+*** You are running in headless mode.
+
+(firefox:7495): GLib-GObject-WARNING **: 16:40:08.221: invalid (NULL) pointer instance
+
+(firefox:7495): GLib-GObject-CRITICAL **: 16:40:08.221: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7594): GLib-GObject-WARNING **: 16:40:08.550: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7594): GLib-GObject-CRITICAL **: 16:40:08.550: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7613): GLib-GObject-WARNING **: 16:40:08.621: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7613): GLib-GObject-CRITICAL **: 16:40:08.621: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7683): GLib-GObject-WARNING **: 16:40:10.504: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7683): GLib-GObject-CRITICAL **: 16:40:10.504: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1610289610525	Marionette	INFO	Listening on port 43003
+1610289610563	Marionette	WARN	TLS certificate errors will be ignored for this session

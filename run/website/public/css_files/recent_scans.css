@@ -1,0 +1,130 @@
+.section-nav{
+    margin-bottom:9.5vh;
+}
+
+.wrapper {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(236, 236, 236);
+    margin-bottom:2vh;
+    margin-top: 2.5vh;
+}
+
+.reports {
+    text-decoration: none;
+    color: rgb(0, 70, 102);
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.reports:hover {
+    text-decoration: none;
+    color: rgb(25, 0, 255);
+    font-size: 1em;
+    font-weight: bold;
+}
+
+
+.android_image {
+    border-radius: 50%;
+}
+
+
+.sdk,.android_version {
+    display: flex;
+    justify-content: flex-start;
+   
+}
+
+.target_sdk,.min_sdk,.max_sdk,.android_version_name,.android_version_code,.day,.time{
+    margin-right: 2vw;
+}
+
+
+.information_mobsf { 
+    margin-top:2vh ;
+    margin-bottom:2vh;
+    overflow-wrap: break-word;
+    font-weight: 600;
+}
+
+
+
+h5 {
+    margin-top:1vh;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+    background-color: rgb(90, 151, 201);
+    color:white;
+    border-radius: 15%;
+    padding:3px;
+    margin-right:0.25vw;
+}
+
+
+.average_score {
+    background-color: cyan;
+    border-radius: 15%;
+    padding:3px;
+    margin-right:0.25vw;
+}
+
+.security_score {
+    background-color: red;
+    border-radius: 15%;
+    padding:3px;
+    margin-right:0.25vw;
+}
+
+
+.trackers {
+    background-color: rgb(238, 196, 56);
+    border-radius: 15%;
+    padding:3px;
+    margin-right:0.25vw;
+}
+
+body {
+    background-color: rgba(145, 141, 141, 0.699);
+}
+
+.footer-section {
+    position:absolute; 
+    bottom:0;
+}
+
+img:hover{
+  opacity:0.8;
+}
+
+.title-info:hover {
+    opacity:0.8;
+    color:rgb(0, 61, 82);
+}
+
+@media only screen and (max-width: 770px) {
+
+        .file_box,.app_box,.app_info_box{
+            margin: 0 auto ; 
+        }
+
+        .section-nav{
+            margin-bottom:9.5vh;
+        }
+        
+  }
+
+  @media only screen and (max-width: 1060px) {
+
+        .file_box,.app_box,.app_info_box{
+            margin: 0 auto ; 
+        }
+
+        .section-nav{
+            margin-bottom:11.5vh;
+        }
+        
+    
+  }

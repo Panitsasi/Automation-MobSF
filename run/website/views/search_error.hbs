@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Recent Scans</title>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+      <link rel="stylesheet" href="css_files/recent_scans.css">
+      <link rel="stylesheet" href="css_files/nav.css">
+      <link rel="stylesheet" href="css_files/footer.css">
+      <link rel="stylesheet" href="css_files/search_error.css">
+  </head>
+
+  <body>
+      <div class="main-wrapper">
+          <div class="section-nav">
+              <nav class="navbar navbar-dark bg-dark navbar-expand-md bg-none  fixed-top" id="navbar">
+                    <a class="navbar-brand brand" href="/home" ><img src="./images/logo1.jpg" alt="Logo"></a>
+                    <button id="collapseButton" class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                          <div class="container">
+                                <ul class="navbar-nav ml-auto" >
+                                      <li class="nav-item active" >
+                                            <a class="nav-link text-light" href="/recent_scans">Recent Scans <span class="sr-only">(current)</span></a>
+                                      </li>
+                                      <li class="nav-item active">
+                                          <a class="nav-link text-light" href="/home">Upload</a>
+                                      </li>
+                                      <li class="nav-item active">
+                                      <a class="nav-link text-light" href="/information">Information</a>
+                                      </li>
+                                      
+                                      <li class="nav-item active">
+                                      <a class="nav-link text-light" href="#"><i class="fa fa-user"></i>  {{username}}</a>
+                                      </li>
+
+                                      <li class="nav-item active">
+                                            <form action="/logout" method="POST">
+                                                    <button type="submit" class="btn btn-dark nav-button"><i class="fa fa-sign-out" aria-hidden="true"></i> Log out </button>
+                                            </form> 
+                                      </li>
+                                      <li class="mt-1">
+                                        <form action="/search" method="POST" class="navbar-form pull-right">
+                                            <input type="text" placeholder="Search for app." name="searchbox" class="span2">
+                                            <button type="submit" class="btn btn-dark nav-button search-button">Search</button>
+                                        </form>
+                                      </li>
+                                </ul>
+                          </div>
+                    </div>
+                </nav>
+          </div>
+          <div class="wrapper-error secondary secondary-info">
+              <div class="error-info">No results found.</div>
+          </div>
+          <footer id="footer" class="font-small" >
+                <div class="bg-dark">
+                    <div class="container">
+                        <div class="row py-4 d-flex align-items-center">
+                            <div class="col-sm-12  text-center ">
+                                <h5 class="mb-4 font-weight-bold department">Department of Electrical and Computer Engineering, School of Engineering, University of Patras</h5>
+                                <p class="creators">Dimitrios Serpanos &nbsp; &nbsp; &nbsp;Ioannis Panitsas</p>
+                                <p class="creators">&copy; Copyright 2020</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+    </div>  
+    <!-- jQuery and JS bundle w/ Popper.js -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+  </body>
+
+</html>

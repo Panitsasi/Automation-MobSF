@@ -1,0 +1,10 @@
+.wrapper-error {
+    height: 50vh;
+    width:100vw;
+}
+
+.error-info {
+    font-size:2em ;
+    margin-top:30vh;
+    text-align:center;
+}

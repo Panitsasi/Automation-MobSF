@@ -1,0 +1,69 @@
+body{
+background-color: rgb(241, 241, 241);
+}
+
+.mobsf-info{
+    margin-top: 10vh;
+}
+.about-mobsf {
+    font-size: 1.5em;
+    margin-left:3vw;
+    margin-bottom:1em;
+    color:rgb(38, 194, 247);
+    font-weight: bold;
+}
+
+.about-mobsf-p {
+    margin-right:3vw;
+    margin-left:3vw;
+    font-size:1.2em;
+    text-align: justify;
+}
+
+.about-mobsf-p:hover {
+    opacity: 0.8;
+    background-color: rgb(235, 233, 233);
+}
+
+.mosf-p {
+    margin-left:5vw;
+    font-size:1.2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.table1 {
+    margin-top:1vh;
+}
+
+.table2 {
+    margin-top:2vh;
+    margin-bottom: 2vh;
+}
+
+
+.table1 tr:hover,.table2 tr:hover{
+    background-color: lightblue;
+}
+
+
+.hash-function,.app-security,.cvss {
+    margin-left:3vw;
+    font-size:1.3em;
+    color:rgb(39, 181, 228);
+    font-weight: bold;
+
+}
+
+.hash-function-info,.app-security-info,.cvss-info{
+    text-align: justify;
+    margin-right:3vw;
+    margin-left:3vw;
+    font-size:1.2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.hash-function-info:hover,.app-security-info:hover,.cvss-info:hover{
+    opacity: 0.8;
+    background-color: rgb(235, 233, 233);
+}

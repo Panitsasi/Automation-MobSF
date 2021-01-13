@@ -1,0 +1,133 @@
+.top-nav-collapse {
+    background-color: #a1a7cf !important;
+  }
+  
+  .navbar:not(.top-nav-collapse) {
+    background: rgba(255, 255, 255, 0.3);
+    display: flex;
+  }
+  
+  @media (max-width: 765px) {
+    .navbar:not(.top-nav-collapse) {
+      background-color: #a1a7cf !important;
+    }
+  
+    .navbar:not(.top-nav-collapse) a {
+        color: rgb(85, 77, 77) !important;
+      }
+  
+    .navbar:not(.top-nav-collapse) button {
+    color: white !important;
+    }
+  
+    #collapseButton{
+        border:none;
+        color:white;
+    }
+  
+    #languageButton button{
+        width: 40%;
+        left:25%;
+        border-radius: 7px;
+        border-width: 2px;
+        border-color: white;
+        margin: 3px;
+    }
+  } 
+  
+  .user_card {
+    height: 450px;
+    width: 380px;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: rgba(37, 37, 37, 0.699);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+  }
+  
+  .brand_logo_container {
+    position: absolute;
+    height: 170px;
+    width: 200px;
+    top: -60px;
+    border-radius: 50%;
+    background: #fffefb;
+    /* padding: 10px; */
+    text-align: center;
+    border:none;
+  }
+  .brand_logo {
+    height: 170px;
+    width: 200px;
+    border-radius: 25%;
+    border: 2px solid white;
+  }
+  .form_container {
+    margin-top: 100px;
+  }
+  .login_btn {
+    width: 100%;
+    background: #fa0000 !important;
+    color: white !important;
+  }
+  .login_btn:focus {
+    box-shadow: none !important;
+    outline: 0px !important;
+  }
+  .login_btn:hover{
+    opacity: 0.9;
+    background: rgb(197, 6, 6);
+    border-radius: 10%;
+  }
+  .login_container {
+    padding: 0 2rem;
+  }
+  .input-group-text {
+    background: rgb(0, 0, 0) !important;
+    color: white !important;
+    border: 0 !important;
+    border-radius: 0.25rem 0 0 0.25rem !important;
+  }
+  .input_user,
+  .input_pass:focus {
+    box-shadow: none !important;
+    outline: 0px !important;
+  }
+  .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+    background-color: #dbc097 !important;
+  }
+  .links {
+    color:white;
+  }
+  .link_register{
+    text-decoration: none; 
+    font-size: 1em; 
+    color: rgb(66, 113, 240);
+  }
+
+
+  .link_register:hover{
+    text-decoration: none; 
+    font-size: 1em; 
+    color: rgb(24, 81, 240);
+  }
+
+
+
+  body, html {
+    height: 100%;
+    margin: 0;
+    background-image: linear-gradient(to right, rgb(12, 12, 12) , rgb(31, 30, 30));
+  }
+
+  .input_user,.input_pass { 
+
+    width: 100vw;
+  }

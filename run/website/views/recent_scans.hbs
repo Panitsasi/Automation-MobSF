@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Recent Scans</title>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+      <link rel="stylesheet" href="css_files/recent_scans.css">
+      <link rel="stylesheet" href="css_files/nav.css">
+      <link rel="stylesheet" href="css_files/footer.css">
+  </head>
+
+  <body>
+      <div class="main-wrapper">
+          <div class="section-nav">
+              <nav class="navbar navbar-dark bg-dark navbar-expand-md bg-none  fixed-top" id="navbar">
+                    <a class="navbar-brand brand" href="/home" ><img src="./images/logo1.jpg" alt="Logo"></a>
+                    <button id="collapseButton" class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                          <div class="container">
+                                <ul class="navbar-nav ml-auto" >
+                                      <li class="nav-item active" >
+                                            <a class="nav-link text-light" href="/recent_scans">Recent Scans <span class="sr-only">(current)</span></a>
+                                      </li>
+                                      <li class="nav-item active">
+                                          <a class="nav-link text-light" href="/home">Upload</a>
+                                      </li>
+                                      <li class="nav-item active">
+                                      <a class="nav-link text-light" href="/information">Information</a>
+                                      </li>
+                                      
+                                      <li class="nav-item active">
+                                      <a class="nav-link text-light" href="#"><i class="fa fa-user"></i>  {{username}}</a>
+                                      </li>
+
+                                      <li class="nav-item active">
+                                            <form action="/logout" method="POST">
+                                                    <button type="submit" class="btn btn-dark nav-button"><i class="fa fa-sign-out" aria-hidden="true"></i> Log out </button>
+                                            </form> 
+                                      </li>
+                                      <li class="mt-1">
+                                        <form action="/search" method="POST" class="navbar-form pull-right">
+                                            <input type="text" placeholder="Search for app." name="searchbox" class="span2">
+                                            <button type="submit" class="btn btn-dark nav-button search-button">Search</button>
+                                        </form>
+                                     </li>
+                                </ul>
+                          </div>
+                    </div>
+                </nav>
+          </div>
+          {{#each data}}
+          <div class="container-fluid wrapper">
+                <div class="row">
+                      <div class="col-sm-2 ">
+                          <div class="app_score">
+                            <img src="images/android.jpg" class="img-fluid img-thumbnail android_image" alt="Android Image">
+                          </div>
+                      </div>
+                      <div class="col-sm-2 app_box">
+                          <div class="app_score">
+                            <h5 class="title-info">App Scores</h5>
+                            <div class="information_mobsf "><span class="average_score">Average Score:</span>{{average_cvss}}</div>
+                            <div class="information_mobsf"><span class="security_score">Security Score:</span>{{security_score}}</div>
+                            <div class="information_mobsf"><span class="trackers"> Trackers Detection:</span>{{trackers.detected_trackers}}/{{trackers.total_trackers}}</div>
+                            <h5 class="title-info">Reports</h5>
+                            <div class="information_mobsf "><a class="reports" href={{static_report}} download>Static Report</a></div>
+                            <div class="information_mobsf "><a class="reports" href={{dynamic_report}} download>Dynamic Report</a></div>
+                          </div>
+                      </div>
+                      <div class="col-sm-4 file_box"  >
+                          <div class="file_info">
+                            <h5 class="title-info">File Information </h5>
+                            <div class="information_mobsf"><span>File Name:</span>{{file_name}} </div>
+                            <div class="information_mobsf"> <span>Size:</span>{{size}}</div>
+                            <div class="information_mobsf"> <span>MD5:</span>{{md5}}</div>
+                            <div class="information_mobsf"><span>SHA1:</span>{{sha1}}</div>
+                            <div class="information_mobsf"> <span>SHA256:</span>{{sha256}}</div>
+                          </div>
+                      </div>
+                    <div class="col-sm-4 app_info_box ">
+                        <div class="app_info">
+                          <h5 class="title-info">App Information</h5>
+                          <div class="information_mobsf "><span>App Name:</span> {{app_name}} </div>
+                          <div class="information_mobsf "><span>Package Name:</span>{{version}}</div>
+                          <div class="information_mobsf"><Span>Main Activity:</Span>{{main_activity}}</div>
+                          <div class="sdk information_mobsf">
+                            <div class="target_sdk "><span>Target SDK:</span>{{target_sdk}}</div>
+                            <div class="min_sdk "><span>Min SDK:</span>{{min_sdk}}</div>
+                            <div class="max_sdk "><span>Max SDK:</span>{{max_sdk}}</div>
+                          </div>
+                          <div class="android_version information_mobsf">
+                            <div class="android_version_name"><span>Android Version Name:</span>{{version_name}}</div>
+                            <div class="android_version_code"><span>Android Version Code:</span>{{version_code}}</div>
+                          </div>
+                          <h5 >Analysis Date</h5>
+                          <div class="android_version information_mobsf">
+                            <div class="day"><span>Day</span>{{day}}</div>
+                            <div class="time"><span>Time</span>{{time}}</div>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+          </div>
+          {{/each}}
+
+          <footer id="footer" class="font-small" >
+                <div class="bg-dark">
+                    <div class="container">
+                        <div class="row py-4 d-flex align-items-center">
+                            <div class="col-sm-12  text-center ">
+                                <h5 class="mb-4 font-weight-bold department">Department of Electrical and Computer Engineering, School of Engineering, University of Patras</h5>
+                                <p class="creators">Dimitrios Serpanos &nbsp; &nbsp; &nbsp;Ioannis Panitsas</p>
+                                <p class="creators">&copy; Copyright 2020</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+    </div>  
+    <!-- jQuery and JS bundle w/ Popper.js -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+  </body>
+
+</html>

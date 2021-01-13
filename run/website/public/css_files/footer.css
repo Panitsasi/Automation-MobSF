@@ -1,0 +1,7 @@
+.creators,.department{
+    color:white;
+}
+
+.creators:hover,.department:hover{
+    color:rgb(241, 89, 62);
+}

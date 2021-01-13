@@ -1,0 +1,30 @@
+nav{
+    font-size: 1.2em;
+  }
+  .brand{
+    font-size: 1.5em;
+  }
+  li {
+    margin-right: 2em;
+  }
+  .page-footer{
+    background-color: #e2e2e2; 
+    position:absolute; 
+    top:100vh;
+    width:99vw;
+  }
+  .creators,.department{
+    color:white;
+  }
+
+ 
+.nav-button{
+  font-size:1em;
+  padding:0.4em;
+}
+
+.search-button {
+  color:white;
+  
+}
+
