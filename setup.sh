@@ -86,5 +86,11 @@ pip install --no-cache-dir -r requirements.txt
 
 echo
 
+cd Automation-MobSF/
+
+echo 'Create Necessary Directories'
+mkdir APKs
+mkdir reports
+
 echo 'Find Authorization API Key'
 python3 ~/Automation-MobSF/run/authorization.py
